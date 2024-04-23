@@ -7,6 +7,3 @@ df = pd.read_json('Data/dataset.json')
 
 # Display the first few rows of the DataFrame
 print(df.head())
-
-m=2
-print(m)
